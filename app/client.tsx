@@ -3,6 +3,7 @@
 import styles from "./styles/page.module.css";
 import  WallpaperComponent from "./wallpaper/page.tsx";
 import { useEffect, useState } from "react";
+export const runtime = 'edge';
 
 interface Weather {
 	status: string,

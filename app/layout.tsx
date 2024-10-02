@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Roboto_Mono } from "next/font/google";
+export const runtime = 'edge';
 import "./styles/globals.css";
 
 const Roboto = Roboto_Mono({ subsets: ["latin"] });

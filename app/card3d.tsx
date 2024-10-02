@@ -1,5 +1,6 @@
 "use client";
 
+export const runtime = 'edge';
 import { ReactNode, useEffect, useRef, useState } from "react";
 
 interface ComponentProps {
