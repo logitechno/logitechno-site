@@ -15,9 +15,9 @@ export const metadata: Metadata = {
 	openGraph: {
 		title: 'Техно',
 		description: 'Человек, ананас, нано кодер',
-		url: 'https://logitechno.ru',
-		siteName: 'logitechno.ru',
-		images: 'https://logitechno.ru/static/logitechno.jpg'
+		url: 'https://logitechno.space',
+		siteName: 'logitechno.space',
+		images: 'https://logitechno.space/static/logitechno.jpg'
 	},
 	twitter: {
 		card: 'summary'
